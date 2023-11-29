@@ -139,3 +139,20 @@ form > a.botao:hover {
 form > a.botao > i {
     font-size: 0.8em;
 }
+
+footer {
+    background-color: rgba(0, 128, 128, 0.285);
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center
+}
+
+footer > p > a {
+    color: white;
+}
+
+footer a:hover {
+    text-decoration: underline;
+    color: #63d8d4;
+}
